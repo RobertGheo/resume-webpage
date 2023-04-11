@@ -8,7 +8,8 @@ body {
     flex-direction: row-reverse;
     position: relative;
     width: 1200px;
-    margin: 40px auto;     
+    margin: 40px auto; 
+    left: 40px;    
 }
 
 /* Right section style */
